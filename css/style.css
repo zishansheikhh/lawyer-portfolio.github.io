@@ -645,7 +645,9 @@ textarea.form-control {
 .section-on-footer {
   margin-bottom: -250px;
 }
-
+.footer-section a{
+  color: #281c14;
+}
 .shadow-down {
   position: relative;
 }
